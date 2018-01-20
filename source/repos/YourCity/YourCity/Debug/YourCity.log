@@ -1,3 +1,0 @@
-﻿  YourCity.cpp
-c:\users\travis\source\repos\yourcity\yourcity\yourcity.cpp(20): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
-  YourCity.vcxproj -> C:\Users\travis\source\repos\YourCity\Debug\YourCity.exe
